@@ -1,4 +1,4 @@
-# Azure IoT Hub (Azure Telemetry Service)
+# Azure Telemetry Service (Azure IoT Hub Project)
 
 ### Submitted by
 
